@@ -1,0 +1,13 @@
+# Unity / Gradle build outputs
+build/
+.gradle/
+.cxx/
+local.properties
+symbols/
+*.apk
+*.aab
+*.ap_
+*.dex
+.idea/
+*.iml
+.DS_Store

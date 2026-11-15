@@ -1,0 +1,40 @@
+{
+    "schema":  1,
+    "processor_revision":  "il2cpp-prebuild-v6",
+    "unity_version":  "6000.0.85f2",
+    "unity_template_version":  "22",
+    "ndk_version":  "27.2.12479018",
+    "abi":  [
+                "arm64-v8a"
+            ],
+    "target_sdk":  36,
+    "il2cpp_so_sha256":  "0631e2a6db9a81a5726ecaf2fbcf2bbe1f95290fc71d63f32e65f164b44038bf",
+    "global_metadata_sha256":  "a7e9218c17d56aea6e1cdd7e03bdc65e859835f84f94eb069784f8940714f226",
+    "native_inventory":  [
+                             {
+                                 "name":  "libil2cpp.so",
+                                 "abi":  "arm64-v8a",
+                                 "bytes":  46623248,
+                                 "sha256":  "0631e2a6db9a81a5726ecaf2fbcf2bbe1f95290fc71d63f32e65f164b44038bf"
+                             },
+                             {
+                                 "name":  "libmain.so",
+                                 "abi":  "arm64-v8a",
+                                 "bytes":  6696,
+                                 "sha256":  "db8bcae9869d827fd7fd216e19a85c6405bd257bf988fa69927f35cdbc669384"
+                             },
+                             {
+                                 "name":  "libpxrplatformloader.so",
+                                 "abi":  "arm64-v8a",
+                                 "bytes":  251760,
+                                 "sha256":  "8babaafc71b642295f03f73ec80141e5705c34b4b5770afc4c86ef238e5ecb05"
+                             },
+                             {
+                                 "name":  "libunity.so",
+                                 "abi":  "arm64-v8a",
+                                 "bytes":  18923888,
+                                 "sha256":  "9aededa039ac0683625287db7b44a9444cca9cd1517c382832be54a0d34d436a"
+                             }
+                         ],
+    "generated_at":  "2026-11-15T08:44:35Z"
+}
